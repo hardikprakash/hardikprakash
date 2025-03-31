@@ -6,9 +6,12 @@ My work includes sentiment analysis, time-series forecasting, and real-time surv
 
 I am open to collaborations, innovative projects, and contributing to open-source initiatives. Connect with me on LinkedIn to discuss technology and potential opportunities.
 
+## 📄 My Portfolio
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://hardikprakash-dev.vercel.app)
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hardikprakash)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://hardikprakash-dev.vercel.app)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
