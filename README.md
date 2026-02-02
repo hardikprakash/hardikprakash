@@ -4,13 +4,6 @@ Hello! I am Hardik Prakash, I build apps things AI and Data. You can find me wor
 
 I am open to collaborations and contributing to open-source.
 
-## My Portfolio
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://hardikprakash-dev.vercel.app)
-
-
-## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hardik-prakash)
-
 # I work with:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-%2300C7B7.svg?style=for-the-badge&logo=fastapi&logoColor=white) 
